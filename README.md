@@ -8,7 +8,9 @@ veículos obtidas de imagens de câmeras de segurança.
 
 Neste repositorios estao disponiveis os scripts de treinamento, pesos da rede treinada e os resultados obtidos após a aplicação de OCR nas imagens geradas pelas técnicas de superresolução utilizadas aplicadas ao dataset Sense ALPR: http://smartsenselab.dcc.ufmg.br/dataset/banco-de-dados-sense-alpr/
 
-A implementação das redes GANS foram fornecidas pela biblioteca ISR: https://github.com/idealo/image-super-resolution/
+![alt text](./figures/res.PNG)
+
+##### A implementação das redes GANS foram fornecidas pela biblioteca ISR: https://github.com/idealo/image-super-resolution/
 
 ### Artigo
 
