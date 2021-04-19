@@ -1,4 +1,4 @@
-##Superresolução em sistemas de videovigilância: um estudo comparativo
+## Superresolução em sistemas de videovigilância: um estudo comparativo
 
 
 Aplicação de técnicas do estado-da-arte que permitem o aprimoramento
@@ -12,4 +12,4 @@ A implementação das redes GANS foram fornecidas pela biblioteca ISR: https://g
 
 
 
-#####Trabalho produzido com a orientação do professor Herman Martins Gomes
+##### Trabalho produzido com a orientação do professor Herman Martins Gomes
