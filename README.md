@@ -10,6 +10,8 @@ Neste repositorios estao disponiveis os scripts de treinamento, pesos da rede tr
 
 A implementação das redes GANS foram fornecidas pela biblioteca ISR: https://github.com/idealo/image-super-resolution/
 
+### Artigo
 
+https://drive.google.com/file/d/1F1pbUR2B6skvhTUeTmLjTdU584QIvUrd/view
 
 ##### Trabalho produzido com a orientação do professor Herman Martins Gomes
